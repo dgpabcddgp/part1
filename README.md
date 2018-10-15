@@ -25,4 +25,4 @@ Start the http-server
 $ http-server
 ```
 
-Open the TutorialTwo.trex file from the cloned GitHub repository in Tableau Desktop 2018.2 or greater.
+Open the TutorialOne.trex file from the cloned GitHub repository in Tableau Desktop 2018.2 or greater.
